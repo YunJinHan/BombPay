@@ -6,7 +6,7 @@ BombPay
 
 시연 영상
 -------------
-(https://youtu.be/UvhjjFM3wfA)
+[![Alt text](https://img.youtube.com/vi/UvhjjFM3wfA/0.jpg)](https://www.youtube.com/watch?v=UvhjjFM3wfA)
 
 실행 방법
 -------------
